@@ -1,10 +1,10 @@
-package com.orgname.activemq_processor;
+package com.mamta.leetcode;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ActivemqProcessorApplicationTests {
+class LeetcodeApplicationTests {
 
 	@Test
 	void contextLoads() {

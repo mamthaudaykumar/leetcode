@@ -1,13 +1,13 @@
-package com.orgname.activemq_processor;
+package com.mamta.leetcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ActivemqProcessorApplication {
+public class LeetcodeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ActivemqProcessorApplication.class, args);
+		SpringApplication.run(LeetcodeApplication.class, args);
 	}
 
 }
