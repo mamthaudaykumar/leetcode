@@ -1,4 +1,4 @@
-package com.mamta.leetcode;
+package com.mamta.leetcode.twopointer;
 
 import org.junit.jupiter.api.Test;
 
@@ -8,7 +8,7 @@ public class Leet42 {
         int left = 0;
         int right = height.length-1;
         int leftMax=0, rightMax=0;
-int water = 0;
+        int water = 0;
 
         while(left<right) {
           if(height[left] < height[right]) {

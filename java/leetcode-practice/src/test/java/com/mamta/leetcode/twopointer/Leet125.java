@@ -1,4 +1,4 @@
-package com.mamta.leetcode;
+package com.mamta.leetcode.twopointer;
 
 import org.junit.jupiter.api.Test;
 

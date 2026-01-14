@@ -1,10 +1,8 @@
-package com.mamta.leetcode;
+package com.mamta.leetcode.twopointer;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 public class Leet217 {
